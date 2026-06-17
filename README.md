@@ -1,3 +1,2 @@
-* Building agentic data analytic tools and research pipelines to exploit market inefficiencies
-* Multi Domain Market Analyst
-* I think my brain is a whole quant firm
+dropped out. 
+do deep tech research for a EU robotics/embodied AGI lab.
