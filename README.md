@@ -1,4 +1,4 @@
-Research Engineer on machine learning, robotics, and quantitative systems.
+End-to-end systems engineer specializing in ML infrastructure, robotics, and quantitative research.
 
 ## Tech Stack
 
